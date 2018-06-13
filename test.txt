@@ -1,5 +1,2 @@
-this is a new branch
-<<<<<<< HEAD
-com in master new b2
-debug success
-
+there is a bug
+the bug have debuged
